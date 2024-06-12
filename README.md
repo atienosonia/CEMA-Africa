@@ -13,7 +13,7 @@ The model predicts whether a cell image is parasitized or not.The model architec
 
 ## Data 
 
-- The Dataset used was Malaria Dataset obtained from Tensorlow Datasets.
+- The Dataset used was Malaria Dataset obtained from Tensorflow Datasets.
 
 - The Dataset contains 27,558 cell images
 
